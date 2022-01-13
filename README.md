@@ -7,7 +7,7 @@ Awesome Startup is a distributed company with employees working all over the wor
 Click [Link](https://hkim2979.github.io/project_9/) for a live look.
 
 <p align="center">
-  <img src="https://github.com/hkim2979/treehouse_project_9_hongsoonkim/blob/main/image_1.jpg">
+  <img src="https://github.com/hkim2979/treehouse_project_9_hongsoonkim/blob/main/image_1.png">
 </p>
  
  ## Skills
